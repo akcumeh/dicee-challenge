@@ -22,7 +22,7 @@ Create a simple dice game incorporating basic JS to determine a winner between t
 ### Links
 
 - [Repo URL](https://github.com/akcumeh/dicee-challenge)
-- [Live Site URL](https://akcumeh.github.com/dicee-challenge)
+- [Live Site URL](https://akcumeh.github.io/dicee-challenge)
 
 ## My process
 
@@ -34,7 +34,7 @@ Create a simple dice game incorporating basic JS to determine a winner between t
 
 ### What I learned
 
-I've ben learning a lot in this course and this was a perfect way to reinforce my newly acquired knowledge in JavaScript as well as the Document Object Model (DOM).
+I've been learning a lot in this course and this was a perfect way to reinforce my newly acquired knowledge in JavaScript as well as the Document Object Model (DOM).
 
 ### Continued development
 
